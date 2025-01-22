@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby
+#!/usr/bin/env bash
 
-puts "GSL"
+echo "GSL"
 exit 0
